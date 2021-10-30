@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jdmar3-comp426/a00-rudra1919/issues"
   },
-  "homepage": "https://github.com/jdmar3-comp426/a00-rudra1919#readme"
+  "homepage": "https://github.com/jdmar3-comp426/a00-rudra1919#readme",
+  "dependencies": {
+    "browser-sync": "^2.27.7"
+  }
 }
